@@ -1,0 +1,20 @@
+cooking pot,notebook,socks,toothpaste
+cooking pot,shampoo,toilet paper,socks
+dish soap,water bottle,laptop,flashlight
+blender,phone charger,microwave,socks
+screwdriver,Video Game,kitchen towels,diapers
+toothpaste,light bulbs,blender,socks
+microwave,Contorller,trash bags,laundry detergent
+kitchen towels,light bulbs,socks,shampoo
+notebook,HDMI Cable,light bulbs,microwave
+coffee maker,kitchen towels,batteries,paper towels
+cooking pot,coffee maker,toilet paper,socks
+trash bags,dish soap,toaster,headphones
+pen,toothpaste,shampoo,socks
+dish soap,toothpaste,screwdriver,trash bags
+socks,phone charger,toothpaste,diapers
+cooking pot,toilet paper,laptop,screwdriver
+shampoo,cooking pot,clothes,phone charger
+shampoo,pen,diapers,microwave
+toilet paper,batteries,diapers,clothes
+trash bags,Deotorant,pen,socks

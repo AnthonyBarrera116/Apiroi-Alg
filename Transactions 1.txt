@@ -1,0 +1,20 @@
+Fans,Clothes,Diapers,Deotorant
+Knife,Cups,Plates,Shampoo
+Conditioner,Pens,Pencils,Printer ink
+Alcohol wipes,toilet paper,paper,shoes
+HDMI Cable,notebook,sharpener,Deotorant
+Fans,Knife,Cups,Diapers
+Knife,Diapers,Cups,Shampoo
+Conditioner,Pens,Pencils,Printer ink
+BackPack,Diapers,paper,Cups
+Soap,Screws,sharpener,Deotorant
+Fans,Clothes,Diapers,Screws
+Knife,Cups,Plates,Diapers
+Conditioner,Pens,Pencils,Printer ink
+Alcohol wipes,toilet paper, paper,shoes
+Soap,Rug,Knife,Charger
+Fans,Knife,sharpener,Projector
+Knife,Diapers,Cups,Shampoo
+Dress Shoes,Pens,Pencils,Water Bottle
+Display Port,Diapers,Cups,shoes
+Cups,Knife,Diapers,sandles

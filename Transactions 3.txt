@@ -1,0 +1,20 @@
+vacuum cleaner,backpack,laptop,laundry detergent
+notebook,shampoo,flashlight,microwave
+notebook,water bottle,shampoo,umbrella
+paper towels,dish soap,shampoo,pen
+laundry detergent,toilet paper,shampoo,cooking pot
+coffee maker,dish soap,screwdriver,water bottle
+notebook,headphones,blender,Pencil
+diapers,light bulbs,pen,notebook
+pen,toilet paper,laundry detergent,trash bags
+shampoo,notebook,flashlight,shampoo
+toaster,headphones,blender,batteries
+umbrella,paper towels,notebook,cutlery set
+laundry detergent,pen,toothpaste,trash bags
+shampoo,notebook,flashlight,kitchen towels
+notebook,laundry detergent,trash bags,water bottle
+shampoo,vacuum cleaner,notebook,shampoo
+batteries,backpack,diapers,shampoo
+flashlight,shampoo,water bottle,notebook
+microwave,trash bags,cutlery set,coffee maker
+coffee maker,shampoo,clothes,HDMI Cable

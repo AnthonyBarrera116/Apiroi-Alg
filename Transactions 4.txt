@@ -1,0 +1,20 @@
+socks,laptop,toilet paper,water bottle
+diapers,batteries,umbrella,kitchen towels
+phone charger,toilet paper,laundry detergent,backpack
+umbrella,cutlery set,paper towels,trash bags
+coffee maker,blender,phone charger,toaster
+shampoo,socks,toothpaste,light bulbs
+batteries,dish soap,pen,microwave
+diapers,cutlery set,blender,headphones
+coffee maker,flashlight,toothpaste,light bulbs
+dish soap,toilet paper,laundry detergent,socks
+cooking pot,laundry detergent,laptop,clothes
+screwdriver,paper towels,diapers,blender
+umbrella,flashlight,vacuum cleaner,toaster
+shampoo,notebook,batteries,vacuum cleaner
+clothes,batteries,flashlight,toothpaste
+diapers,laptop,flashlight,blender
+toothpaste,socks,umbrella,flashlight
+toaster,diapers,batteries,blender
+backpack,shampoo,blender,screwdriver
+backpack,toaster,light bulbs,kitchen towels

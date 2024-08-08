@@ -1,0 +1,20 @@
+Fans,Clothes,Diapers,Deotorant
+Knife,Cups,Plates,Shampoo
+Soap,Charger,Pencils,Screws
+Alcohol wipes,toilet paper,paper,shoes
+HDMI Cable,notebook,sharpener,Display Port
+Sandles,Screws,Water Bottle,BackPack
+Fans,Clothes,Dress Shoes,Shoes
+Fans,Speakers,Water Bottle,Deotorant
+Knife,Cups,Plates,Deotorant
+Knife,Pens,Pencils,Deotorant
+Alcohol wipes,toilet paper,Knife,shoes
+Fans,Clothes,Water Bottle,Deotorant
+Knife,Deotorant,Plates,Shampoo
+Conditioner,Pens,Pencils,Knife
+Alcohol wipes,toilet paper,Knife,Deotorant
+Fans,Clothes,Knife,Deotorant
+Knife,Deotorant,Plates,Shampoo
+Knife,Pens,Pencils,Printer ink
+Alcohol wipes,Knife,paper,Deotorant
+Gloves,Knife,Water Bottle,Deotorant
